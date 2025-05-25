@@ -1,0 +1,10 @@
+{
+  "name": "peaker-perm-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "MCannon",
+  "type": "module",
+  "description": "Permissions config for Peaker By DO",
+  "private": true
+}
